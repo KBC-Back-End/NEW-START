@@ -7,7 +7,7 @@
 + 군필여부: 육군 만기 전역
 + 취미: 운동, 전시회, 맛집찾기
 + Email: dragon7563@gmail.com
-+ GitHub: github.com/KBC-Back-End
++ GitHub: [github.com/KBC-Back-End](github.com/KBC-Back-End)
 ```
 팀원과의 소통 및 성장을 가장 중요하게 생각하고 있습니다. 
 ```
@@ -25,4 +25,4 @@
 + 팀 프로젝트로 백엔드 개발 맡음
 + 개발환경: JAVA 1.8 / Tomcat 8.5 / Spring framework 5.0.7 / Mybatis / Oracle DB
 + 기간: 2021.09 ~ 2021.10
-+ github.com/KBC-Back-End/project
++ [github.com/KBC-Back-End/project](github.com/KBC-Back-End/project)
