@@ -7,7 +7,7 @@
 + 군필여부: 육군 만기 전역
 + 취미: 운동, 전시회, 맛집찾기
 + Email: dragon7563@gmail.com
-+ GitHub: [https://github.com/KBC-Back-End](github.com/KBC-Back-End)
++ GitHub: [github.com/KBC-Back-End](https://github.com/KBC-Back-End)
 ```
 팀원과의 소통 및 성장을 가장 중요하게 생각하고 있습니다. 
 ```
