@@ -9,7 +9,7 @@
 + Email: dragon7563@gmail.com
 + GitHub: [github.com/KBC-Back-End](https://github.com/KBC-Back-End)
 ```
-팀원과의 소통 및 성장을 가장 중요하게 생각하고 있습니다. 
+팀원과의 커뮤니케이션을 가장 중요하게 생각하고 있습니다. 
 ```
 
 ## 학력
